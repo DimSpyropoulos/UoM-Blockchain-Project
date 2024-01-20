@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UoM-Blockchain-Project/static/css/main.008f0665.css",
+    "main.js": "/UoM-Blockchain-Project/static/js/main.9cff3da7.js",
+    "static/js/787.2fd42bab.chunk.js": "/UoM-Blockchain-Project/static/js/787.2fd42bab.chunk.js",
+    "index.html": "/UoM-Blockchain-Project/index.html",
+    "main.008f0665.css.map": "/UoM-Blockchain-Project/static/css/main.008f0665.css.map",
+    "main.9cff3da7.js.map": "/UoM-Blockchain-Project/static/js/main.9cff3da7.js.map",
+    "787.2fd42bab.chunk.js.map": "/UoM-Blockchain-Project/static/js/787.2fd42bab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008f0665.css",
+    "static/js/main.9cff3da7.js"
+  ]
+}
